@@ -5,3 +5,4 @@ goldhand
 setuptools
 numpy==1.26.1
 ipython
+requests
